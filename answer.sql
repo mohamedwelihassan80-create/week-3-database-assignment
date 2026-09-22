@@ -1,4 +1,4 @@
--- Question 1 Create the students table
+-- Question 1 Create the student table
 
 CREATE TABLE student (
     id INT PRIMARY KEY ,
@@ -6,7 +6,7 @@ CREATE TABLE student (
     age INT
 );
 
--- Question 2 Inserting records in the students table
+-- Question 2 Inserting records in the student table
 
 INSERT INTO student (id, fullName, age) VALUES
 (1, 'Musa Abdi Ahmed', 21),
